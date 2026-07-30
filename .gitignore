@@ -1,0 +1,8 @@
+# Pastas de build/instalação do Python
+build/
+*.egg-info/
+.venv/
+__pycache__/
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/

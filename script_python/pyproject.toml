@@ -1,0 +1,12 @@
+[project]
+name = "projeto_bike"
+version = "0.1.0"
+description = "Analise-Cyclistic"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2.0",
+    "jupyter>=1.1.1",
+    "ipykernel>=6.29.5",
+    "requests>=2.31.0",
+]
